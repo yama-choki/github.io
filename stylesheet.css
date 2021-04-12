@@ -1,0 +1,47 @@
+body{
+  background-image: url(image/背景画像.jpg);
+  background-size: cover;
+}
+
+.container{
+  width:100%;
+  max-width: 1200px;
+  margin:0 auto;
+}
+
+.title h1{
+  font-size: 60px;
+}
+
+.title img{
+ float:left;
+ width: 100px;
+ height: 100px;
+ margin-top: 10px;
+}
+
+.title h1{
+  color:chartreuse;
+}
+
+.title span{
+  color:blue;
+}
+
+.fast{
+  font-size: 20px;
+  color:rgb(93, 120, 131);
+  font-weight:
+}
+
+.section-title{
+  margin-bottom: 50px;
+}
+.section-title h2{
+  float: left;
+  margin-right: 30px;  
+}
+.illust img{
+  width: 100px;
+  height:100px;
+}
